@@ -1,4 +1,4 @@
-# Offgrid AI - Project Meeting Brief
+# Offgrid AI
 
 ## 1. Executive Summary
 
